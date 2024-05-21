@@ -1,0 +1,2326 @@
+Cookies found on the page:
+Name: PREF, Value: f7=4000&f6=40000000&tz=Africa.Nairobi
+Name: VISITOR_PRIVACY_METADATA, Value: CgJLRRIEGgAgKg%3D%3D
+Name: VISITOR_INFO1_LIVE, Value: ITfLr8aD5eA
+Name: YSC, Value: UsMtIIdUG3E
+Name: GPS, Value: 1
+
+Elements with IDs found on the page:
+Tag: script, ID: js-3741864389
+Tag: script, ID: js-1065286052
+Tag: script, ID: js-1124342058
+Tag: style, ID: ext-styles
+Tag: g, ID: 3d-rotation
+Tag: g, ID: accessibility
+Tag: g, ID: accessible
+Tag: g, ID: account-balance
+Tag: g, ID: account-balance-wallet
+Tag: g, ID: account-box
+Tag: g, ID: account-circle
+Tag: g, ID: add
+Tag: g, ID: add-alert
+Tag: g, ID: add-box
+Tag: g, ID: add-circle
+Tag: g, ID: add-circle-outline
+Tag: g, ID: add-shopping-cart
+Tag: g, ID: alarm
+Tag: g, ID: alarm-add
+Tag: g, ID: alarm-off
+Tag: g, ID: alarm-on
+Tag: g, ID: all-out
+Tag: g, ID: android
+Tag: g, ID: announcement
+Tag: g, ID: apps
+Tag: g, ID: archive
+Tag: g, ID: arrow-back
+Tag: g, ID: arrow-downward
+Tag: g, ID: arrow-drop-down
+Tag: g, ID: arrow-drop-down-circle
+Tag: g, ID: arrow-drop-up
+Tag: g, ID: arrow-forward
+Tag: g, ID: arrow-upward
+Tag: g, ID: aspect-ratio
+Tag: g, ID: assessment
+Tag: g, ID: assignment
+Tag: g, ID: assignment-ind
+Tag: g, ID: assignment-late
+Tag: g, ID: assignment-return
+Tag: g, ID: assignment-returned
+Tag: g, ID: assignment-turned-in
+Tag: g, ID: attachment
+Tag: g, ID: autorenew
+Tag: g, ID: backspace
+Tag: g, ID: backup
+Tag: g, ID: block
+Tag: g, ID: book
+Tag: g, ID: bookmark
+Tag: g, ID: bookmark-border
+Tag: g, ID: bug-report
+Tag: g, ID: build
+Tag: g, ID: cached
+Tag: g, ID: camera-enhance
+Tag: g, ID: cancel
+Tag: g, ID: card-giftcard
+Tag: g, ID: card-membership
+Tag: g, ID: card-travel
+Tag: g, ID: change-history
+Tag: g, ID: check
+Tag: g, ID: check-box
+Tag: g, ID: check-box-outline-blank
+Tag: g, ID: check-circle
+Tag: g, ID: chevron-left
+Tag: g, ID: chevron-right
+Tag: g, ID: chrome-reader-mode
+Tag: g, ID: class
+Tag: g, ID: clear
+Tag: g, ID: close
+Tag: g, ID: cloud
+Tag: g, ID: cloud-circle
+Tag: g, ID: cloud-done
+Tag: g, ID: cloud-download
+Tag: g, ID: cloud-off
+Tag: g, ID: cloud-queue
+Tag: g, ID: cloud-upload
+Tag: g, ID: code
+Tag: g, ID: compare-arrows
+Tag: g, ID: content-copy
+Tag: g, ID: content-cut
+Tag: g, ID: content-paste
+Tag: g, ID: copyright
+Tag: g, ID: create
+Tag: g, ID: create-new-folder
+Tag: g, ID: credit-card
+Tag: g, ID: dashboard
+Tag: g, ID: date-range
+Tag: g, ID: delete
+Tag: g, ID: delete-forever
+Tag: g, ID: delete-sweep
+Tag: g, ID: description
+Tag: g, ID: dns
+Tag: g, ID: done
+Tag: g, ID: done-all
+Tag: g, ID: donut-large
+Tag: g, ID: donut-small
+Tag: g, ID: drafts
+Tag: g, ID: eject
+Tag: g, ID: error
+Tag: g, ID: error-outline
+Tag: g, ID: euro-symbol
+Tag: g, ID: event
+Tag: g, ID: event-seat
+Tag: g, ID: exit-to-app
+Tag: g, ID: expand-less
+Tag: g, ID: expand-more
+Tag: g, ID: explore
+Tag: g, ID: extension
+Tag: g, ID: face
+Tag: g, ID: favorite
+Tag: g, ID: favorite-border
+Tag: g, ID: feedback
+Tag: g, ID: file-download
+Tag: g, ID: file-upload
+Tag: g, ID: filter-list
+Tag: g, ID: find-in-page
+Tag: g, ID: find-replace
+Tag: g, ID: fingerprint
+Tag: g, ID: first-page
+Tag: g, ID: flag
+Tag: g, ID: flight-land
+Tag: g, ID: flight-takeoff
+Tag: g, ID: flip-to-back
+Tag: g, ID: flip-to-front
+Tag: g, ID: folder
+Tag: g, ID: folder-open
+Tag: g, ID: folder-shared
+Tag: g, ID: font-download
+Tag: g, ID: forward
+Tag: g, ID: fullscreen
+Tag: g, ID: fullscreen-exit
+Tag: g, ID: g-translate
+Tag: g, ID: gavel
+Tag: g, ID: gesture
+Tag: g, ID: get-app
+Tag: g, ID: gif
+Tag: g, ID: grade
+Tag: g, ID: group-work
+Tag: g, ID: help
+Tag: g, ID: help-outline
+Tag: g, ID: highlight-off
+Tag: g, ID: history
+Tag: g, ID: home
+Tag: g, ID: hourglass-empty
+Tag: g, ID: hourglass-full
+Tag: g, ID: http
+Tag: g, ID: https
+Tag: g, ID: important-devices
+Tag: g, ID: inbox
+Tag: g, ID: indeterminate-check-box
+Tag: g, ID: info
+Tag: g, ID: info-outline
+Tag: g, ID: input
+Tag: g, ID: invert-colors
+Tag: g, ID: label
+Tag: g, ID: label-outline
+Tag: g, ID: language
+Tag: g, ID: last-page
+Tag: g, ID: launch
+Tag: g, ID: lightbulb-outline
+Tag: g, ID: line-style
+Tag: g, ID: line-weight
+Tag: g, ID: link
+Tag: g, ID: list
+Tag: g, ID: lock
+Tag: g, ID: lock-open
+Tag: g, ID: lock-outline
+Tag: g, ID: low-priority
+Tag: g, ID: loyalty
+Tag: g, ID: mail
+Tag: g, ID: markunread
+Tag: g, ID: markunread-mailbox
+Tag: g, ID: menu
+Tag: g, ID: more-horiz
+Tag: g, ID: more-vert
+Tag: g, ID: motorcycle
+Tag: g, ID: move-to-inbox
+Tag: g, ID: next-week
+Tag: g, ID: note-add
+Tag: g, ID: offline-pin
+Tag: g, ID: opacity
+Tag: g, ID: open-in-browser
+Tag: g, ID: open-in-new
+Tag: g, ID: open-with
+Tag: g, ID: pageview
+Tag: g, ID: pan-tool
+Tag: g, ID: payment
+Tag: g, ID: perm-camera-mic
+Tag: g, ID: perm-contact-calendar
+Tag: g, ID: perm-data-setting
+Tag: g, ID: perm-device-information
+Tag: g, ID: perm-identity
+Tag: g, ID: perm-media
+Tag: g, ID: perm-phone-msg
+Tag: g, ID: perm-scan-wifi
+Tag: g, ID: pets
+Tag: g, ID: picture-in-picture
+Tag: g, ID: picture-in-picture-alt
+Tag: g, ID: play-for-work
+Tag: g, ID: polymer
+Tag: g, ID: power-settings-new
+Tag: g, ID: pregnant-woman
+Tag: g, ID: print
+Tag: g, ID: query-builder
+Tag: g, ID: question-answer
+Tag: g, ID: radio-button-checked
+Tag: g, ID: radio-button-unchecked
+Tag: g, ID: receipt
+Tag: g, ID: record-voice-over
+Tag: g, ID: redeem
+Tag: g, ID: redo
+Tag: g, ID: refresh
+Tag: g, ID: remove
+Tag: g, ID: remove-circle
+Tag: g, ID: remove-circle-outline
+Tag: g, ID: remove-shopping-cart
+Tag: g, ID: reorder
+Tag: g, ID: reply
+Tag: g, ID: reply-all
+Tag: g, ID: report
+Tag: g, ID: report-problem
+Tag: g, ID: restore
+Tag: g, ID: restore-page
+Tag: g, ID: room
+Tag: g, ID: rounded-corner
+Tag: g, ID: rowing
+Tag: g, ID: save
+Tag: g, ID: schedule
+Tag: g, ID: search
+Tag: g, ID: select-all
+Tag: g, ID: send
+Tag: g, ID: settings
+Tag: g, ID: settings-applications
+Tag: g, ID: settings-backup-restore
+Tag: g, ID: settings-bluetooth
+Tag: g, ID: settings-brightness
+Tag: g, ID: settings-cell
+Tag: g, ID: settings-ethernet
+Tag: g, ID: settings-input-antenna
+Tag: g, ID: settings-input-component
+Tag: g, ID: settings-input-composite
+Tag: g, ID: settings-input-hdmi
+Tag: g, ID: settings-input-svideo
+Tag: g, ID: settings-overscan
+Tag: g, ID: settings-phone
+Tag: g, ID: settings-power
+Tag: g, ID: settings-remote
+Tag: g, ID: settings-voice
+Tag: g, ID: shop
+Tag: g, ID: shop-two
+Tag: g, ID: shopping-basket
+Tag: g, ID: shopping-cart
+Tag: g, ID: sort
+Tag: g, ID: speaker-notes
+Tag: g, ID: speaker-notes-off
+Tag: g, ID: spellcheck
+Tag: g, ID: star
+Tag: g, ID: star-border
+Tag: g, ID: star-half
+Tag: g, ID: stars
+Tag: g, ID: store
+Tag: g, ID: subdirectory-arrow-left
+Tag: g, ID: subdirectory-arrow-right
+Tag: g, ID: subject
+Tag: g, ID: supervisor-account
+Tag: g, ID: swap-horiz
+Tag: g, ID: swap-vert
+Tag: g, ID: swap-vertical-circle
+Tag: g, ID: system-update-alt
+Tag: g, ID: tab
+Tag: g, ID: tab-unselected
+Tag: g, ID: text-format
+Tag: g, ID: theaters
+Tag: g, ID: thumb-down
+Tag: g, ID: thumb-up
+Tag: g, ID: thumbs-up-down
+Tag: g, ID: timeline
+Tag: g, ID: toc
+Tag: g, ID: today
+Tag: g, ID: toll
+Tag: g, ID: touch-app
+Tag: g, ID: track-changes
+Tag: g, ID: translate
+Tag: g, ID: trending-down
+Tag: g, ID: trending-flat
+Tag: g, ID: trending-up
+Tag: g, ID: turned-in
+Tag: g, ID: turned-in-not
+Tag: g, ID: unarchive
+Tag: g, ID: undo
+Tag: g, ID: unfold-less
+Tag: g, ID: unfold-more
+Tag: g, ID: update
+Tag: g, ID: verified-user
+Tag: g, ID: view-agenda
+Tag: g, ID: view-array
+Tag: g, ID: view-carousel
+Tag: g, ID: view-column
+Tag: g, ID: view-day
+Tag: g, ID: view-headline
+Tag: g, ID: view-list
+Tag: g, ID: view-module
+Tag: g, ID: view-quilt
+Tag: g, ID: view-stream
+Tag: g, ID: view-week
+Tag: g, ID: visibility
+Tag: g, ID: visibility-off
+Tag: g, ID: warning
+Tag: g, ID: watch-later
+Tag: g, ID: weekend
+Tag: g, ID: work
+Tag: g, ID: youtube-searched-for
+Tag: g, ID: zoom-in
+Tag: g, ID: zoom-out
+Tag: g, ID: arrow-drop-down
+Tag: g, ID: chevron-left
+Tag: g, ID: chevron-right
+Tag: link, ID: player-css
+Tag: yt-guide-manager, ID: guide-service
+Tag: div, ID: blocking-container
+Tag: button, ID: button
+Tag: yt-icon, ID: close-icon
+Tag: yt-interaction, ID: interaction
+Tag: div, ID: card
+Tag: div, ID: video-container
+Tag: div, ID: player-container
+Tag: div, ID: info-bar
+Tag: yt-formatted-string, ID: owner-name
+Tag: button, ID: button
+Tag: yt-interaction, ID: interaction
+Tag: ytd-playlist-panel-renderer, ID: playlist
+Tag: div, ID: container
+Tag: div, ID: header-contents
+Tag: div, ID: header-top-row
+Tag: div, ID: header-description
+Tag: h3, ID: next-video-title
+Tag: span, ID: next-label
+Tag: div, ID: publisher-container
+Tag: div, ID: top-row-buttons
+Tag: yt-icon-button, ID: trailing-button
+Tag: button, ID: button
+Tag: yt-icon, ID: trailing-icon
+Tag: yt-interaction, ID: interaction
+Tag: div, ID: playlist-actions
+Tag: div, ID: start-actions
+Tag: div, ID: playlist-action-menu
+Tag: div, ID: save-button
+Tag: div, ID: end-actions
+Tag: div, ID: overflow-menu
+Tag: div, ID: content-header
+Tag: div, ID: items
+Tag: div, ID: expander-space
+Tag: ytd-miniplayer-toast, ID: toast
+Tag: a, ID: thumbnail
+Tag: div, ID: overlays
+Tag: div, ID: mouseover-overlay
+Tag: div, ID: hover-overlays
+Tag: div, ID: info
+Tag: div, ID: label
+Tag: div, ID: title
+Tag: div, ID: modern-card
+Tag: div, ID: modern-video-container
+Tag: div, ID: modern-player-container
+Tag: div, ID: modern-info-bar
+Tag: yt-formatted-string, ID: modern-owner-name
+Tag: button, ID: button
+Tag: yt-interaction, ID: interaction
+Tag: ytd-playlist-panel-renderer, ID: modern-playlist
+Tag: div, ID: container
+Tag: div, ID: header-contents
+Tag: div, ID: header-top-row
+Tag: div, ID: header-description
+Tag: h3, ID: next-video-title
+Tag: span, ID: next-label
+Tag: div, ID: publisher-container
+Tag: div, ID: top-row-buttons
+Tag: yt-icon-button, ID: trailing-button
+Tag: button, ID: button
+Tag: yt-icon, ID: trailing-icon
+Tag: yt-interaction, ID: interaction
+Tag: div, ID: playlist-actions
+Tag: div, ID: start-actions
+Tag: div, ID: playlist-action-menu
+Tag: div, ID: save-button
+Tag: div, ID: end-actions
+Tag: div, ID: overflow-menu
+Tag: div, ID: content-header
+Tag: div, ID: items
+Tag: ytd-miniplayer-toast, ID: modern-toast
+Tag: a, ID: thumbnail
+Tag: div, ID: overlays
+Tag: div, ID: mouseover-overlay
+Tag: div, ID: hover-overlays
+Tag: div, ID: info
+Tag: div, ID: label
+Tag: div, ID: title
+Tag: div, ID: content
+Tag: div, ID: masthead-container
+Tag: ytd-masthead, ID: masthead
+Tag: div, ID: ticker
+Tag: div, ID: interstitial
+Tag: div, ID: background
+Tag: div, ID: container
+Tag: div, ID: start
+Tag: yt-icon-button, ID: back-button
+Tag: button, ID: button
+Tag: yt-interaction, ID: interaction
+Tag: tp-yt-paper-tooltip, ID: back-button-tooltip
+Tag: yt-icon-button, ID: guide-button
+Tag: button, ID: button
+Tag: yt-icon, ID: guide-icon
+Tag: yt-interaction, ID: interaction
+Tag: ytd-topbar-logo-renderer, ID: logo
+Tag: a, ID: logo
+Tag: yt-icon, ID: logo-icon
+Tag: svg, ID: yt-logo-updated-svg_yt16
+Tag: svg, ID: yt-logo-updated_yt16
+Tag: g, ID: youtube-paths_yt16
+Tag: yt-icon, ID: logo-icon
+Tag: svg, ID: yt-logo-updated-svg_yt15
+Tag: svg, ID: yt-logo-updated_yt15
+Tag: g, ID: youtube-paths_yt15
+Tag: span, ID: country-code
+Tag: div, ID: skip-navigation
+Tag: div, ID: center
+Tag: ytd-searchbox, ID: search
+Tag: form, ID: search-form
+Tag: div, ID: container
+Tag: yt-icon, ID: search-icon
+Tag: div, ID: search-input
+Tag: input, ID: search
+Tag: div, ID: search-clear-button
+Tag: div, ID: search-container
+Tag: button, ID: search-icon-legacy
+Tag: div, ID: tooltip
+Tag: yt-icon-button, ID: search-button-narrow
+Tag: button, ID: button
+Tag: yt-interaction, ID: interaction
+Tag: div, ID: voice-search-button
+Tag: div, ID: tooltip
+Tag: div, ID: end
+Tag: div, ID: masthead-skeleton-icons
+Tag: div, ID: buttons
+Tag: div, ID: button
+Tag: yt-icon-button, ID: button
+Tag: button, ID: button
+Tag: yt-interaction, ID: interaction
+Tag: tp-yt-app-drawer, ID: guide
+Tag: div, ID: scrim
+Tag: div, ID: contentContainer
+Tag: div, ID: guide-wrapper
+Tag: div, ID: guide-spacer
+Tag: div, ID: guide-content
+Tag: div, ID: header
+Tag: yt-icon-button, ID: guide-button
+Tag: button, ID: button
+Tag: yt-icon, ID: guide-icon
+Tag: yt-interaction, ID: interaction
+Tag: a, ID: logo
+Tag: yt-icon, ID: logo-icon
+Tag: svg, ID: yt-logo-updated-svg_yt14
+Tag: svg, ID: yt-logo-updated_yt14
+Tag: g, ID: youtube-paths_yt14
+Tag: yt-icon, ID: logo-icon
+Tag: svg, ID: yt-logo-updated-svg_yt13
+Tag: svg, ID: yt-logo-updated_yt13
+Tag: g, ID: youtube-paths_yt13
+Tag: span, ID: country-code
+Tag: div, ID: guide-inner-content
+Tag: ytd-guide-renderer, ID: guide-renderer
+Tag: div, ID: sections
+Tag: yt-formatted-string, ID: guide-section-title
+Tag: div, ID: items
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: yt-formatted-string, ID: guide-section-title
+Tag: div, ID: items
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: ytd-button-renderer, ID: sign-in-button
+Tag: yt-formatted-string, ID: guide-section-title
+Tag: div, ID: items
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: yt-formatted-string, ID: guide-section-title
+Tag: div, ID: items
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: yt-formatted-string, ID: guide-section-title
+Tag: div, ID: items
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: a, ID: endpoint
+Tag: div, ID: newness-dot
+Tag: div, ID: footer
+Tag: div, ID: guide-links-primary
+Tag: div, ID: guide-links-secondary
+Tag: div, ID: copyright
+Tag: div, ID: items
+Tag: a, ID: endpoint
+Tag: yt-icon, ID: icon
+Tag: div, ID: tooltip
+Tag: a, ID: endpoint
+Tag: yt-icon, ID: icon
+Tag: div, ID: tooltip
+Tag: a, ID: endpoint
+Tag: yt-icon, ID: icon
+Tag: div, ID: tooltip
+Tag: a, ID: endpoint
+Tag: yt-icon, ID: icon
+Tag: div, ID: tooltip
+Tag: a, ID: endpoint
+Tag: yt-icon, ID: icon
+Tag: div, ID: tooltip
+Tag: ytd-page-manager, ID: page-manager
+Tag: div, ID: alert-banner
+Tag: div, ID: masthead-ad
+Tag: div, ID: header
+Tag: div, ID: alerts
+Tag: yt-formatted-string, ID: text
+Tag: tp-yt-paper-material, ID: expand-button
+Tag: button, ID: button
+Tag: yt-icon, ID: expander-icon
+Tag: yt-interaction, ID: interaction
+Tag: div, ID: items
+Tag: div, ID: title
+Tag: div, ID: items
+Tag: div, ID: primary
+Tag: div, ID: header
+Tag: div, ID: big-yoodle
+Tag: div, ID: masthead-ad
+Tag: div, ID: title-container
+Tag: div, ID: title
+Tag: div, ID: spinner-container
+Tag: div, ID: spinnerContainer
+Tag: div, ID: contents
+Tag: div, ID: content
+Tag: div, ID: dismissible
+Tag: div, ID: dismiss-button
+Tag: div, ID: content-wrapper
+Tag: div, ID: header-container
+Tag: div, ID: image-container
+Tag: yt-img-shadow, ID: nudge-image
+Tag: img, ID: img
+Tag: div, ID: text-container
+Tag: div, ID: title-container
+Tag: yt-formatted-string, ID: title
+Tag: div, ID: subtitle-container
+Tag: yt-formatted-string, ID: subtitle
+Tag: div, ID: contents
+Tag: div, ID: button-container
+Tag: div, ID: primary-button
+Tag: div, ID: secondary-button
+Tag: div, ID: dismissed
+Tag: div, ID: dismissed-content
+Tag: div, ID: secondary
+Tag: div, ID: survey
+Tag: div, ID: metadata
+Tag: div, ID: footer
+Tag: ytd-refresh, ID: refresh
+Tag: yt-icon, ID: icon
+Tag: div, ID: spinnerContainer
+Tag: iron-media-query, ID: two-column-query
+Tag: iron-media-query, ID: small-window-query
+Tag: iron-media-query, ID: large-window-query
+Tag: iron-media-query, ID: watch-while-query
+Tag: div, ID: microformat
+Tag: div, ID: miniplayer-bar
+Tag: div, ID: full-bleed-container
+Tag: div, ID: player-full-bleed-container
+Tag: div, ID: cinematics-full-bleed-container
+Tag: div, ID: panels-full-bleed-container
+Tag: div, ID: single-column-container
+Tag: div, ID: columns
+Tag: div, ID: primary
+Tag: div, ID: primary-inner
+Tag: div, ID: player
+Tag: div, ID: cinematics-container
+Tag: div, ID: cinematics
+Tag: div, ID: player-container-outer
+Tag: div, ID: player-container-inner
+Tag: div, ID: player-container
+Tag: ytd-player, ID: ytd-player
+Tag: div, ID: container
+Tag: div, ID: movie_player
+Tag: path, ID: ytp-id-23
+Tag: path, ID: ytp-id-3
+Tag: path, ID: ytp-id-2
+Tag: path, ID: ytp-id-1
+Tag: path, ID: ytp-id-34
+Tag: div, ID: ytp-id-22
+Tag: div, ID: ytp-id-25
+Tag: div, ID: ytp-id-24
+Tag: div, ID: ytp-id-29
+Tag: path, ID: ytp-id-26
+Tag: path, ID: ytp-id-32
+Tag: path, ID: ytp-id-33
+Tag: div, ID: ytp-id-18
+Tag: path, ID: ytp-id-6
+Tag: path, ID: ytp-id-4
+Tag: path, ID: ytp-id-5
+Tag: path, ID: ytp-id-11
+Tag: path, ID: ytp-id-12
+Tag: path, ID: ytp-id-13
+Tag: clippath, ID: ytp-svg-volume-animation-mask
+Tag: clippath, ID: ytp-svg-volume-animation-slash-mask
+Tag: path, ID: ytp-id-15
+Tag: path, ID: ytp-id-16
+Tag: path, ID: ytp-id-17
+Tag: path, ID: ytp-id-19
+Tag: path, ID: ytp-id-20
+Tag: path, ID: ytp-id-31
+Tag: path, ID: ytp-id-30
+Tag: path, ID: ytp-id-21
+Tag: path, ID: ytp-id-7
+Tag: path, ID: ytp-id-8
+Tag: path, ID: ytp-id-9
+Tag: path, ID: ytp-id-10
+Tag: yt-playability-error-supported-renderers, ID: error-screen
+Tag: div, ID: below
+Tag: div, ID: alerts
+Tag: div, ID: messages
+Tag: div, ID: clarify-box
+Tag: div, ID: limited-state
+Tag: div, ID: above-the-fold
+Tag: div, ID: title
+Tag: div, ID: top-row
+Tag: div, ID: owner
+Tag: yt-img-shadow, ID: avatar
+Tag: img, ID: img
+Tag: div, ID: upload-info
+Tag: ytd-channel-name, ID: channel-name
+Tag: div, ID: container
+Tag: div, ID: text-container
+Tag: yt-formatted-string, ID: text
+Tag: div, ID: tooltip
+Tag: yt-formatted-string, ID: owner-sub-count
+Tag: div, ID: purchase-button
+Tag: div, ID: sponsor-button
+Tag: div, ID: analytics-button
+Tag: div, ID: subscribe-button
+Tag: div, ID: actions
+Tag: div, ID: actions-inner
+Tag: div, ID: menu
+Tag: div, ID: middle-row
+Tag: div, ID: bottom-row
+Tag: div, ID: description
+Tag: div, ID: description-inner
+Tag: ytd-watch-info-text, ID: ytd-watch-info-text
+Tag: div, ID: info-container
+Tag: div, ID: view-count
+Tag: div, ID: date-text
+Tag: yt-formatted-string, ID: info
+Tag: div, ID: tooltip
+Tag: dom-if, ID: product-shelf
+Tag: yt-formatted-string, ID: description-placeholder
+Tag: div, ID: description-text-container
+Tag: yt-attributed-string, ID: attributed-description-text
+Tag: yt-formatted-string, ID: formatted-description-text
+Tag: ytd-structured-description-content-renderer, ID: faded-structured-description
+Tag: div, ID: always-shown
+Tag: div, ID: collapsible
+Tag: tp-yt-paper-button, ID: collapse-button
+Tag: ytd-text-inline-expander, ID: description-inline-expander
+Tag: div, ID: snippet
+Tag: span, ID: snippet-text
+Tag: span, ID: plain-snippet-text
+Tag: yt-attributed-string, ID: attributed-snippet-text
+Tag: yt-formatted-string, ID: formatted-snippet-text
+Tag: span, ID: ellipsis
+Tag: tp-yt-paper-button, ID: expand-sizer
+Tag: tp-yt-paper-button, ID: expand
+Tag: ytd-structured-description-content-renderer, ID: structured-description
+Tag: div, ID: items
+Tag: div, ID: always-shown
+Tag: div, ID: collapsible
+Tag: tp-yt-paper-button, ID: collapse
+Tag: yt-interaction, ID: description-interaction
+Tag: div, ID: bottom-actions
+Tag: div, ID: comment-teaser
+Tag: div, ID: always-shown
+Tag: div, ID: collapsible
+Tag: div, ID: info
+Tag: div, ID: info-skeleton
+Tag: div, ID: primary-info
+Tag: div, ID: title
+Tag: div, ID: info
+Tag: div, ID: count
+Tag: div, ID: menu
+Tag: div, ID: info-contents
+Tag: div, ID: container
+Tag: div, ID: info
+Tag: div, ID: info-text
+Tag: div, ID: count
+Tag: div, ID: info-strings
+Tag: span, ID: dot
+Tag: div, ID: flex
+Tag: div, ID: menu-container
+Tag: div, ID: menu
+Tag: ytd-sentiment-bar-renderer, ID: sentiment
+Tag: div, ID: container
+Tag: div, ID: like-bar
+Tag: div, ID: tooltip
+Tag: div, ID: meta
+Tag: div, ID: meta-skeleton
+Tag: div, ID: secondary-info
+Tag: div, ID: top-row
+Tag: div, ID: video-owner
+Tag: div, ID: channel-icon
+Tag: div, ID: upload-info
+Tag: div, ID: owner-name
+Tag: div, ID: published-date
+Tag: div, ID: subscribe-button
+Tag: div, ID: meta-contents
+Tag: div, ID: expandable-metadata
+Tag: div, ID: ticket-shelf
+Tag: dom-if, ID: merch-shelf
+Tag: ytd-comments, ID: comments
+Tag: div, ID: secondary
+Tag: div, ID: secondary-inner
+Tag: div, ID: panels
+Tag: ytd-playlist-panel-renderer, ID: playlist
+Tag: div, ID: container
+Tag: div, ID: header-contents
+Tag: div, ID: header-top-row
+Tag: div, ID: header-description
+Tag: h3, ID: next-video-title
+Tag: span, ID: next-label
+Tag: div, ID: publisher-container
+Tag: div, ID: top-row-buttons
+Tag: yt-icon-button, ID: trailing-button
+Tag: button, ID: button
+Tag: yt-icon, ID: trailing-icon
+Tag: yt-interaction, ID: interaction
+Tag: div, ID: playlist-actions
+Tag: div, ID: start-actions
+Tag: div, ID: playlist-action-menu
+Tag: div, ID: save-button
+Tag: div, ID: end-actions
+Tag: div, ID: overflow-menu
+Tag: div, ID: content-header
+Tag: div, ID: items
+Tag: div, ID: chat-container
+Tag: dom-if, ID: chat-template
+Tag: div, ID: donation-shelf
+Tag: div, ID: related
+Tag: div, ID: player-ads
+Tag: div, ID: offer-module
+Tag: div, ID: items
+Tag: div, ID: continuations
+Tag: div, ID: related-skeleton
+Tag: div, ID: related
+Tag: div, ID: upnext
+Tag: ytd-video-quality-promo-renderer, ID: speedyg
+Tag: div, ID: survey
+Tag: div, ID: engagement-panel-scrim
+Tag: div, ID: video-preview
+Tag: div, ID: video-preview-container
+Tag: div, ID: endorsement
+Tag: div, ID: media-container
+Tag: a, ID: media-container-link
+Tag: div, ID: player-container
+Tag: ytd-player, ID: inline-player
+Tag: div, ID: container
+Tag: div, ID: thumbnail-container
+Tag: a, ID: thumbnail
+Tag: div, ID: overlays
+Tag: div, ID: mouseover-overlay
+Tag: div, ID: hover-overlays
+Tag: div, ID: overlays
+Tag: div, ID: player-controls
+Tag: script, ID: base-js
+Tag: mask, ID: artwork__b
+Tag: mask, ID: artwork__d
+Tag: mask, ID: artwork__f
+Tag: mask, ID: artwork__h
+Tag: path, ID: artwork__g
+Tag: mask, ID: artwork__j
+Tag: mask, ID: artwork__l
+Tag: mask, ID: artwork__n
+Tag: path, ID: artwork__m
+Tag: mask, ID: artwork__p
+Tag: mask, ID: artwork__r
+Tag: mask, ID: artwork__t
+Tag: mask, ID: artwork__v
+Tag: mask, ID: artwork__x
+Tag: mask, ID: artwork__z
+Tag: clippath, ID: hashtag_landing_page_empty__a
+Tag: clippath, ID: hashtag_landing_page_empty_dark_mode__a
+Tag: clippath, ID: hashtag_landing_page_error__a
+Tag: clippath, ID: hashtag_landing_page_error__c
+Tag: clippath, ID: hashtag_landing_page_error__b
+Tag: clippath, ID: hashtag_landing_page_error_dark_mode__a
+Tag: clippath, ID: hashtag_landing_page_error_dark_mode__c
+Tag: clippath, ID: hashtag_landing_page_error_dark_mode__b
+Tag: mask, ID: offline_no_content__b
+Tag: mask, ID: offline_no_content__d
+Tag: path, ID: offline_no_content__a
+Tag: path, ID: offline_no_content__c
+Tag: clippath, ID: empty_search__clip-path
+Tag: clippath, ID: chrome_icon__b
+Tag: clippath, ID: chrome_icon__f
+Tag: clippath, ID: chrome_icon__j
+Tag: clippath, ID: chrome_icon__n
+Tag: lineargradient, ID: chrome_icon__c
+Tag: lineargradient, ID: chrome_icon__d
+Tag: lineargradient, ID: chrome_icon__g
+Tag: lineargradient, ID: chrome_icon__h
+Tag: lineargradient, ID: chrome_icon__k
+Tag: radialgradient, ID: chrome_icon__l
+Tag: lineargradient, ID: chrome_icon__o
+Tag: radialgradient, ID: chrome_icon__p
+Tag: radialgradient, ID: chrome_icon__q
+Tag: radialgradient, ID: chrome_icon__r
+Tag: circle, ID: chrome_icon__a
+Tag: path, ID: chrome_icon__e
+Tag: path, ID: chrome_icon__i
+Tag: path, ID: chrome_icon__m
+Tag: circle, ID: ring__dot
+
+Elements with class attribute:
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinwebanimationsnextliteminvflsetwebanimationsnextliteminjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbincustomelementses5adaptervflsetcustomelementses5adapterjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinwebcomponentssdvflsetwebcomponentssdjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinintersectionobserverminvflsetintersectionobserverminjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinschedulervflsetschedulerjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinwwwi18nconstantsen_USvflsetwwwi18nconstantsjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinwwwtamperingvflsetwwwtamperingjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinspfvflsetspfjs
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbinnetworkvflsetnetworkjs
+Tag: link, Class: css-httpsfontsgoogleapiscomcss2familyRobotowght300400500700familyYouTubeSanswght300900displayswap
+Tag: link, Class: css-httpswwwyoutubecomsdesktop505984a2cssbinwwwmaindesktophomepageskeletoncss
+Tag: link, Class: css-httpswwwyoutubecomsdesktop505984a2cssbinwwwonepickcss
+Tag: link, Class: css-httpswwwyoutubecoms_ytmainappweb_sskytmainappwebkevlar_base6XQbX35pPqELB1OamAJidd0br1rsAGKMywGSEOkq0wgKHfoH4vpA06Y18MDQ
+Tag: style, Class: global_styles
+Tag: style, Class: masthead_shell
+Tag: style, Class: masthead_custom_styles
+Tag: style, Class: searchbox
+Tag: style, Class: kevlar_global_styles
+Tag: yt-guide-manager, Class: style-scope ytd-app
+Tag: yt-mdx-manager, Class: style-scope ytd-app
+Tag: yt-playlist-manager, Class: style-scope ytd-app
+Tag: yt-hotkey-manager, Class: style-scope ytd-app
+Tag: ytd-miniplayer, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: yt-icon-button, Class: style-scope ytd-miniplayer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-miniplayer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: miniplayer style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: video style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: metadata style-scope ytd-miniplayer
+Tag: h1, Class: title meta style-scope ytd-miniplayer
+Tag: a, Class: style-scope ytd-miniplayer
+Tag: yt-formatted-string, Class: miniplayer-title style-scope ytd-miniplayer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: channel style-scope ytd-miniplayer
+Tag: ytd-badge-supported-renderer, Class: premium-badges style-scope ytd-miniplayer
+Tag: yt-formatted-string, Class: style-scope ytd-miniplayer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: index-message style-scope ytd-miniplayer
+Tag: span, Class: text-divider style-scope ytd-miniplayer
+Tag: span, Class: style-scope ytd-miniplayer
+Tag: div, Class: expander style-scope ytd-miniplayer
+Tag: yt-icon-button, Class: style-scope ytd-miniplayer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-miniplayer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-playlist-panel-renderer, Class: style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: header style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: h3, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: h3, Class: style-scope ytd-playlist-panel-renderer
+Tag: span, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: byline-title style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: publisher style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: index-message-wrapper style-scope ytd-playlist-panel-renderer
+Tag: span, Class: index-message style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: index-message style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-icon-button, Class: style-scope ytd-playlist-panel-renderer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: playlist-items style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: ytd-miniplayer-toast, Class: style-scope ytd-miniplayer
+Tag: ytd-thumbnail, Class: style-scope ytd-miniplayer-toast
+Tag: a, Class: yt-simple-endpoint inline-block style-scope ytd-thumbnail
+Tag: yt-image, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-miniplayer-toast
+Tag: div, Class: style-scope ytd-miniplayer-toast
+Tag: div, Class: style-scope ytd-miniplayer-toast
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: video style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: ytd-badge-supported-renderer, Class: premium-badges style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-miniplayer
+Tag: div, Class: metadata style-scope ytd-miniplayer
+Tag: h1, Class: title meta style-scope ytd-miniplayer
+Tag: a, Class: style-scope ytd-miniplayer
+Tag: yt-formatted-string, Class: miniplayer-title style-scope ytd-miniplayer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: channel style-scope ytd-miniplayer
+Tag: ytd-badge-supported-renderer, Class: premium-badges style-scope ytd-miniplayer
+Tag: yt-formatted-string, Class: style-scope ytd-miniplayer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: index-message style-scope ytd-miniplayer
+Tag: span, Class: text-divider style-scope ytd-miniplayer
+Tag: span, Class: style-scope ytd-miniplayer
+Tag: div, Class: expander style-scope ytd-miniplayer
+Tag: yt-icon-button, Class: style-scope ytd-miniplayer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-miniplayer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-playlist-panel-renderer, Class: style-scope ytd-miniplayer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: header style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: h3, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: h3, Class: style-scope ytd-playlist-panel-renderer
+Tag: span, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: byline-title style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: publisher style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: index-message-wrapper style-scope ytd-playlist-panel-renderer
+Tag: span, Class: index-message style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: index-message style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-icon-button, Class: style-scope ytd-playlist-panel-renderer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: playlist-items style-scope ytd-playlist-panel-renderer
+Tag: ytd-miniplayer-toast, Class: style-scope ytd-miniplayer
+Tag: ytd-thumbnail, Class: style-scope ytd-miniplayer-toast
+Tag: a, Class: yt-simple-endpoint inline-block style-scope ytd-thumbnail
+Tag: yt-image, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-miniplayer-toast
+Tag: div, Class: style-scope ytd-miniplayer-toast
+Tag: div, Class: style-scope ytd-miniplayer-toast
+Tag: div, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-app
+Tag: ytd-masthead, Class: masthead-finish
+Tag: iron-media-query, Class: style-scope ytd-masthead
+Tag: div, Class: style-scope ytd-masthead
+Tag: div, Class: style-scope ytd-masthead
+Tag: div, Class: style-scope ytd-masthead
+Tag: div, Class: style-scope ytd-masthead
+Tag: div, Class: style-scope ytd-masthead
+Tag: yt-icon-button, Class: style-scope ytd-masthead
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-masthead
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-masthead
+Tag: yt-icon-button, Class: style-scope ytd-masthead
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-masthead
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-topbar-logo-renderer, Class: style-scope ytd-masthead
+Tag: a, Class: yt-simple-endpoint style-scope ytd-topbar-logo-renderer
+Tag: div, Class: style-scope ytd-topbar-logo-renderer
+Tag: ytd-logo, Class: style-scope ytd-topbar-logo-renderer
+Tag: yt-icon, Class: style-scope ytd-logo
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: svg, Class: external-icon
+Tag: ytd-yoodle-renderer, Class: style-scope ytd-topbar-logo-renderer
+Tag: picture, Class: style-scope ytd-yoodle-renderer
+Tag: source, Class: style-scope ytd-yoodle-renderer
+Tag: img, Class: style-scope ytd-yoodle-renderer
+Tag: ytd-logo, Class: style-scope ytd-yoodle-renderer
+Tag: yt-icon, Class: style-scope ytd-logo
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: svg, Class: external-icon
+Tag: ytd-lottie-player, Class: style-scope ytd-yoodle-renderer
+Tag: span, Class: style-scope ytd-topbar-logo-renderer
+Tag: div, Class: style-scope ytd-masthead
+Tag: ytd-button-renderer, Class: style-scope ytd-masthead
+Tag: button, Class: yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m
+Tag: div, Class: yt-spec-button-shape-next__button-text-content
+Tag: span, Class: yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap
+Tag: div, Class: yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response
+Tag: div, Class: yt-spec-touch-feedback-shape__stroke
+Tag: div, Class: yt-spec-touch-feedback-shape__fill
+Tag: div, Class: style-scope ytd-masthead
+Tag: dom-if, Class: style-scope ytd-masthead
+Tag: ytd-searchbox, Class: style-scope ytd-masthead
+Tag: form, Class: style-scope ytd-searchbox
+Tag: div, Class: style-scope ytd-searchbox
+Tag: yt-icon, Class: style-scope ytd-searchbox
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: div, Class: ytd-searchbox-spt
+Tag: div, Class: style-scope ytd-searchbox
+Tag: ytd-button-renderer, Class: style-scope ytd-searchbox
+Tag: button, Class: yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default
+Tag: div, Class: yt-spec-button-shape-next__icon
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: div, Class: yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response
+Tag: div, Class: yt-spec-touch-feedback-shape__stroke
+Tag: div, Class: yt-spec-touch-feedback-shape__fill
+Tag: div, Class: ytd-searchbox-spt
+Tag: button, Class: style-scope ytd-searchbox
+Tag: yt-icon, Class: style-scope ytd-searchbox
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-searchbox
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: yt-icon-button, Class: style-scope ytd-masthead
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: topbar-icons style-scope ytd-masthead
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-masthead
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: style-scope ytd-masthead
+Tag: ytd-button-renderer, Class: style-scope ytd-masthead
+Tag: button, Class: yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--overlay yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default
+Tag: div, Class: yt-spec-button-shape-next__icon
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: div, Class: yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--overlay-touch-response
+Tag: div, Class: yt-spec-touch-feedback-shape__stroke
+Tag: div, Class: yt-spec-touch-feedback-shape__fill
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: div, Class: style-scope ytd-masthead
+Tag: div, Class: masthead-skeleton-icon
+Tag: div, Class: masthead-skeleton-icon
+Tag: div, Class: masthead-skeleton-icon
+Tag: div, Class: style-scope ytd-masthead
+Tag: ytd-topbar-menu-button-renderer, Class: style-scope ytd-masthead style-default
+Tag: dom-if, Class: style-scope ytd-topbar-menu-button-renderer
+Tag: div, Class: style-scope ytd-topbar-menu-button-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer
+Tag: yt-icon-button, Class: style-scope ytd-topbar-menu-button-renderer style-default
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-topbar-menu-button-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-button-renderer, Class: style-scope ytd-masthead
+Tag: a, Class: yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading
+Tag: div, Class: yt-spec-button-shape-next__icon
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: div, Class: yt-spec-button-shape-next__button-text-content
+Tag: span, Class: yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap
+Tag: div, Class: yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response
+Tag: div, Class: yt-spec-touch-feedback-shape__stroke
+Tag: div, Class: yt-spec-touch-feedback-shape__fill
+Tag: tp-yt-app-drawer, Class: style-scope ytd-app
+Tag: div, Class: style-scope tp-yt-app-drawer
+Tag: div, Class: style-scope tp-yt-app-drawer
+Tag: div, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-app
+Tag: yt-icon-button, Class: style-scope ytd-app
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-app
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-topbar-logo-renderer, Class: style-scope ytd-app
+Tag: a, Class: yt-simple-endpoint style-scope ytd-topbar-logo-renderer
+Tag: div, Class: style-scope ytd-topbar-logo-renderer
+Tag: ytd-logo, Class: style-scope ytd-topbar-logo-renderer
+Tag: yt-icon, Class: style-scope ytd-logo
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: svg, Class: external-icon
+Tag: ytd-yoodle-renderer, Class: style-scope ytd-topbar-logo-renderer
+Tag: picture, Class: style-scope ytd-yoodle-renderer
+Tag: source, Class: style-scope ytd-yoodle-renderer
+Tag: img, Class: style-scope ytd-yoodle-renderer
+Tag: ytd-logo, Class: style-scope ytd-yoodle-renderer
+Tag: yt-icon, Class: style-scope ytd-logo
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: svg, Class: external-icon
+Tag: ytd-lottie-player, Class: style-scope ytd-yoodle-renderer
+Tag: span, Class: style-scope ytd-topbar-logo-renderer
+Tag: div, Class: style-scope ytd-app
+Tag: ytd-guide-renderer, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-guide-renderer
+Tag: ytd-guide-section-renderer, Class: style-scope ytd-guide-renderer
+Tag: h3, Class: style-scope ytd-guide-section-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-guide-section-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-guide-section-renderer
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-section-renderer, Class: style-scope ytd-guide-renderer
+Tag: h3, Class: style-scope ytd-guide-section-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-guide-section-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-guide-section-renderer
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-signin-promo-renderer, Class: style-scope ytd-guide-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-guide-signin-promo-renderer
+Tag: ytd-button-renderer, Class: style-scope ytd-guide-signin-promo-renderer
+Tag: a, Class: yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading
+Tag: div, Class: yt-spec-button-shape-next__icon
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: div, Class: yt-spec-button-shape-next__button-text-content
+Tag: span, Class: yt-core-attributed-string yt-core-attributed-string--white-space-no-wrap
+Tag: div, Class: yt-spec-touch-feedback-shape yt-spec-touch-feedback-shape--touch-response
+Tag: div, Class: yt-spec-touch-feedback-shape__stroke
+Tag: div, Class: yt-spec-touch-feedback-shape__fill
+Tag: ytd-guide-section-renderer, Class: style-scope ytd-guide-renderer
+Tag: h3, Class: style-scope ytd-guide-section-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-guide-section-renderer
+Tag: div, Class: style-scope ytd-guide-section-renderer
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-section-renderer, Class: style-scope ytd-guide-renderer
+Tag: h3, Class: style-scope ytd-guide-section-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-guide-section-renderer
+Tag: div, Class: style-scope ytd-guide-section-renderer
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-section-renderer, Class: style-scope ytd-guide-renderer
+Tag: h3, Class: style-scope ytd-guide-section-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-guide-section-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-guide-section-renderer
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-guide-entry-renderer, Class: style-scope ytd-guide-section-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-guide-entry-renderer
+Tag: tp-yt-paper-item, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-img-shadow, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: arrow-icon style-scope ytd-guide-entry-renderer
+Tag: span, Class: guide-entry-count style-scope ytd-guide-entry-renderer
+Tag: yt-icon, Class: guide-entry-badge style-scope ytd-guide-entry-renderer
+Tag: div, Class: style-scope ytd-guide-entry-renderer
+Tag: yt-interaction, Class: style-scope ytd-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: style-scope ytd-guide-renderer
+Tag: div, Class: style-scope ytd-guide-renderer
+Tag: div, Class: style-scope ytd-guide-renderer
+Tag: dom-if, Class: style-scope ytd-app
+Tag: ytd-mini-guide-renderer, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-mini-guide-renderer
+Tag: ytd-mini-guide-entry-renderer, Class: style-scope ytd-mini-guide-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: span, Class: title style-scope ytd-mini-guide-entry-renderer
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: yt-interaction, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-mini-guide-entry-renderer, Class: style-scope ytd-mini-guide-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: span, Class: title style-scope ytd-mini-guide-entry-renderer
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: yt-interaction, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-mini-guide-entry-renderer, Class: style-scope ytd-mini-guide-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: span, Class: title style-scope ytd-mini-guide-entry-renderer
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: yt-interaction, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-mini-guide-entry-renderer, Class: style-scope ytd-mini-guide-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: span, Class: title style-scope ytd-mini-guide-entry-renderer
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: yt-interaction, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-mini-guide-entry-renderer, Class: style-scope ytd-mini-guide-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon, Class: guide-icon style-scope ytd-mini-guide-entry-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: span, Class: title style-scope ytd-mini-guide-entry-renderer
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: yt-interaction, Class: style-scope ytd-mini-guide-entry-renderer
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-page-manager, Class: style-scope ytd-app
+Tag: ytd-browse, Class: style-scope ytd-page-manager
+Tag: div, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-browse
+Tag: ytd-channel-legal-info-renderer, Class: style-scope ytd-browse
+Tag: yt-formatted-string, Class: style-scope ytd-channel-legal-info-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: tp-yt-paper-material, Class: style-scope ytd-channel-legal-info-renderer
+Tag: yt-icon-button, Class: style-scope ytd-channel-legal-info-renderer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-channel-legal-info-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: ytd-playlist-sidebar-renderer, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-playlist-sidebar-renderer
+Tag: ytd-playlist-header-renderer, Class: style-scope ytd-browse
+Tag: ytd-settings-sidebar-renderer, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-settings-sidebar-renderer
+Tag: div, Class: style-scope ytd-settings-sidebar-renderer
+Tag: dom-if, Class: style-scope ytd-browse
+Tag: ytd-two-column-browse-results-renderer, Class: style-scope ytd-browse grid grid-disabled
+Tag: div, Class: style-scope ytd-two-column-browse-results-renderer
+Tag: ytd-rich-grid-renderer, Class: style-scope ytd-two-column-browse-results-renderer
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: tp-yt-paper-spinner-lite, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class:   style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: spinner-layer style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle-clipper left style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle-clipper right style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: style-scope ytd-rich-grid-renderer
+Tag: ytd-rich-section-renderer, Class: style-scope ytd-rich-grid-renderer
+Tag: div, Class: style-scope ytd-rich-section-renderer
+Tag: ytd-feed-nudge-renderer, Class: style-scope ytd-rich-section-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: yt-img-shadow, Class: style-scope ytd-feed-nudge-renderer no-transition
+Tag: img, Class: style-scope yt-img-shadow
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-feed-nudge-renderer
+Tag: div, Class: style-scope ytd-two-column-browse-results-renderer
+Tag: div, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-browse
+Tag: div, Class: style-scope ytd-browse
+Tag: ytd-refresh, Class: style-scope ytd-browse
+Tag: yt-icon, Class: style-scope ytd-refresh
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: tp-yt-paper-spinner-lite, Class: style-scope ytd-refresh
+Tag: div, Class:   style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: spinner-layer style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle-clipper left style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle-clipper right style-scope tp-yt-paper-spinner-lite
+Tag: div, Class: circle style-scope tp-yt-paper-spinner-lite
+Tag: ytd-watch-flexy, Class: style-scope ytd-page-manager
+Tag: iron-media-query, Class: style-scope ytd-watch-flexy
+Tag: iron-media-query, Class: style-scope ytd-watch-flexy
+Tag: iron-media-query, Class: style-scope ytd-watch-flexy
+Tag: iron-media-query, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: ytd-player, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-player
+Tag: div, Class: html5-video-player ytp-transparent ytp-exp-bottom-control-flexbox ytp-modern-caption ytp-exp-ppp-update ytp-bigboards unstarted-mode ytp-hide-controls ytp-hide-info-bar ytp-small-mode ytp-tiny-mode
+Tag: div, Class: html5-video-container
+Tag: video, Class: video-stream html5-main-video
+Tag: div, Class: ytp-gradient-top
+Tag: div, Class: ytp-chrome-top
+Tag: button, Class: ytp-playlist-menu-button ytp-button ytp-playlist-menu-button-tiny
+Tag: div, Class: ytp-playlist-menu-button-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: div, Class: ytp-playlist-menu-button-text
+Tag: div, Class: ytp-title-channel
+Tag: div, Class: ytp-title-beacon
+Tag: a, Class: ytp-title-channel-logo
+Tag: div, Class: ytp-title-expanded-overlay
+Tag: div, Class: ytp-title-expanded-heading
+Tag: div, Class: ytp-title-expanded-title
+Tag: div, Class: ytp-title-expanded-subtitle
+Tag: div, Class: ytp-title
+Tag: div, Class: ytp-title-text
+Tag: a, Class: ytp-title-link yt-uix-sessionlink ytp-title-fullerscreen-link
+Tag: div, Class: ytp-title-subtext
+Tag: a, Class: ytp-title-channel-name
+Tag: div, Class: ytp-chrome-top-buttons
+Tag: button, Class: ytp-button ytp-search-button
+Tag: div, Class: ytp-search-icon
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-search-title
+Tag: button, Class: ytp-button ytp-cards-button
+Tag: span, Class: ytp-cards-button-icon-default
+Tag: div, Class: ytp-cards-button-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-cards-button-title
+Tag: span, Class: ytp-cards-button-icon-shopping
+Tag: div, Class: ytp-cards-button-icon
+Tag: path, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: path, Class: ytp-svg-shadow-fill
+Tag: div, Class: ytp-cards-button-title
+Tag: div, Class: ytp-cards-teaser
+Tag: div, Class: ytp-cards-teaser-box
+Tag: div, Class: ytp-cards-teaser-text
+Tag: span, Class: ytp-cards-teaser-label
+Tag: button, Class: ytp-button ytp-overflow-button
+Tag: div, Class: ytp-overflow-icon
+Tag: button, Class: ytp-unmute ytp-popup ytp-button ytp-unmute-animated ytp-unmute-shrink
+Tag: div, Class: ytp-unmute-inner
+Tag: div, Class: ytp-unmute-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-unmute-text
+Tag: div, Class: ytp-unmute-box
+Tag: div, Class: ytp-overlay ytp-speedmaster-overlay
+Tag: div, Class: ytp-speedmaster-user-edu ytp-speedmaster-has-icon
+Tag: div, Class: ytp-speedmaster-label
+Tag: div, Class: ytp-speedmaster-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-suggested-action
+Tag: div, Class: ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls ytp-suggested-action
+Tag: div, Class: ytp-suggested-action-badge-icon-container
+Tag: div, Class: ytp-suggested-action-badge-expanded-content-container
+Tag: label, Class: ytp-suggested-action-badge-title
+Tag: a, Class: ytp-suggested-action-container
+Tag: img, Class: ytp-suggested-action-badge-img
+Tag: div, Class: ytp-suggested-action-badge-icon
+Tag: div, Class: ytp-suggested-action-details
+Tag: text, Class: ytp-suggested-action-title
+Tag: text, Class: ytp-suggested-action-subtitle
+Tag: text, Class: ytp-suggested-action-metadata-text
+Tag: button, Class: ytp-suggested-action-badge-dismiss-button-icon ytp-button
+Tag: button, Class: ytp-featured-product-overflow-icon ytp-button
+Tag: div, Class: ytp-cued-thumbnail-overlay
+Tag: div, Class: ytp-cued-thumbnail-overlay-image
+Tag: button, Class: ytp-large-play-button ytp-button
+Tag: path, Class: ytp-large-play-button-bg
+Tag: div, Class: ytp-spinner
+Tag: div, Class: ytp-spinner-container
+Tag: div, Class: ytp-spinner-rotator
+Tag: div, Class: ytp-spinner-left
+Tag: div, Class: ytp-spinner-circle
+Tag: div, Class: ytp-spinner-right
+Tag: div, Class: ytp-spinner-circle
+Tag: div, Class: ytp-spinner-message
+Tag: div, Class: ytp-paid-content-overlay
+Tag: a, Class: ytp-paid-content-overlay-link
+Tag: div, Class: ytp-paid-content-overlay-icon
+Tag: div, Class: ytp-paid-content-overlay-text
+Tag: div, Class: ytp-paid-content-overlay-chevron
+Tag: div, Class: ytp-storyboard-framepreview ytp-storyboard-framepreview-big-boards
+Tag: div, Class: ytp-storyboard-framepreview-timestamp
+Tag: div, Class: ytp-storyboard-framepreview-img
+Tag: div, Class: ytp-bezel-text-wrapper
+Tag: div, Class: ytp-bezel-text
+Tag: div, Class: ytp-bezel
+Tag: div, Class: ytp-bezel-icon
+Tag: div, Class: ytp-doubletap-ui-legacy
+Tag: div, Class: ytp-doubletap-fast-forward-ve
+Tag: div, Class: ytp-doubletap-rewind-ve
+Tag: div, Class: ytp-doubletap-static-circle
+Tag: div, Class: ytp-doubletap-ripple
+Tag: div, Class: ytp-doubletap-overlay-a11y
+Tag: div, Class: ytp-doubletap-seek-info-container
+Tag: div, Class: ytp-doubletap-arrows-container
+Tag: span, Class: ytp-doubletap-base-arrow
+Tag: span, Class: ytp-doubletap-base-arrow
+Tag: span, Class: ytp-doubletap-base-arrow
+Tag: div, Class: ytp-doubletap-tooltip
+Tag: div, Class: ytp-chapter-seek-text-legacy
+Tag: div, Class: ytp-doubletap-tooltip-label
+Tag: div, Class: ytp-tooltip-text-wrapper
+Tag: div, Class: ytp-tooltip-edu
+Tag: div, Class: ytp-tooltip-image
+Tag: div, Class: ytp-tooltip-title
+Tag: span, Class: ytp-tooltip-text
+Tag: div, Class: ytp-tooltip-bg
+Tag: div, Class: ytp-tooltip-duration
+Tag: div, Class: ytp-ad-persistent-progress-bar-container
+Tag: div, Class: ytp-ad-persistent-progress-bar
+Tag: div, Class: ytp-suggested-action
+Tag: div, Class: ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls ytp-featured-product
+Tag: div, Class: ytp-suggested-action-badge-icon-container
+Tag: div, Class: ytp-suggested-action-badge-expanded-content-container
+Tag: label, Class: ytp-suggested-action-badge-title
+Tag: a, Class: ytp-featured-product-container
+Tag: div, Class: ytp-featured-product-thumbnail
+Tag: div, Class: ytp-featured-product-open-in-new
+Tag: div, Class: ytp-featured-product-details
+Tag: text, Class: ytp-featured-product-title
+Tag: div, Class: ytp-featured-product-price-container
+Tag: text, Class: ytp-featured-product-price-when-promotion-text-enabled
+Tag: text, Class: ytp-featured-product-promotion-text
+Tag: div, Class: ytp-featured-product-when-promotion-text-enabled
+Tag: text, Class: ytp-featured-product-affiliate-disclaimer-when-promotion-text-enabled
+Tag: div, Class: ytp-featured-product-trending
+Tag: div, Class: ytp-featured-product-trending-icon
+Tag: text, Class: ytp-featured-product-trending-text
+Tag: text, Class: ytp-featured-product-vendor-when-promotion-text-enabled
+Tag: button, Class: ytp-featured-product-info-icon ytp-button
+Tag: button, Class: ytp-suggested-action-badge-dismiss-button-icon ytp-button
+Tag: button, Class: ytp-featured-product-overflow-icon ytp-button
+Tag: div, Class: ytp-suggested-action
+Tag: button, Class: ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls ytp-suggested-action-badge-expanded
+Tag: div, Class: ytp-suggested-action-badge-icon-container
+Tag: div, Class: ytp-suggested-action-badge-icon
+Tag: div, Class: ytp-suggested-action-badge-expanded-content-container
+Tag: label, Class: ytp-suggested-action-badge-title
+Tag: button, Class: ytp-suggested-action-badge-dismiss-button-icon ytp-button
+Tag: div, Class: ytp-suggested-action
+Tag: button, Class: ytp-button ytp-suggested-action-badge ytp-suggested-action-badge-with-controls
+Tag: div, Class: ytp-suggested-action-badge-icon-container
+Tag: div, Class: ytp-suggested-action-badge-expanded-content-container
+Tag: label, Class: ytp-suggested-action-badge-title
+Tag: button, Class: ytp-suggested-action-badge-dismiss-button-icon ytp-button
+Tag: div, Class: ytp-player-content ytp-iv-player-content
+Tag: div, Class: ytp-free-preview-countdown-timer
+Tag: span, Class: ytp-free-preview-countdown-timer-separator
+Tag: div, Class: ytp-miniplayer-ui
+Tag: div, Class: ytp-remote
+Tag: div, Class: ytp-remote-display-status
+Tag: div, Class: ytp-remote-display-status-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: div, Class: ytp-remote-display-status-text
+Tag: div, Class: ytp-mdx-popup-dialog
+Tag: div, Class: ytp-mdx-popup-dialog-inner-content
+Tag: div, Class: ytp-mdx-popup-title
+Tag: div, Class: ytp-mdx-popup-description
+Tag: div, Class: ytp-mdx-privacy-popup-buttons
+Tag: button, Class: ytp-button ytp-mdx-privacy-popup-cancel
+Tag: button, Class: ytp-button ytp-mdx-privacy-popup-confirm
+Tag: div, Class: ytp-playlist-menu
+Tag: div, Class: ytp-playlist-menu-header
+Tag: div, Class: ytp-playlist-menu-title
+Tag: a, Class: ytp-playlist-menu-title-name
+Tag: button, Class: ytp-playlist-menu-close ytp-button
+Tag: div, Class: ytp-playlist-menu-subtitle
+Tag: div, Class: ytp-playlist-menu-items
+Tag: div, Class: ytp-share-panel
+Tag: div, Class: ytp-share-panel-inner-content
+Tag: div, Class: ytp-share-panel-title
+Tag: a, Class: ytp-share-panel-link ytp-no-contextmenu
+Tag: label, Class: ytp-share-panel-include-playlist
+Tag: input, Class: ytp-share-panel-include-playlist-checkbox
+Tag: div, Class: ytp-share-panel-loading-spinner
+Tag: div, Class: ytp-spinner-container
+Tag: div, Class: ytp-spinner-rotator
+Tag: div, Class: ytp-spinner-left
+Tag: div, Class: ytp-spinner-circle
+Tag: div, Class: ytp-spinner-right
+Tag: div, Class: ytp-spinner-circle
+Tag: div, Class: ytp-share-panel-service-buttons
+Tag: div, Class: ytp-share-panel-error
+Tag: button, Class: ytp-share-panel-close ytp-button
+Tag: div, Class: ytp-overflow-panel
+Tag: div, Class: ytp-overflow-panel-content
+Tag: div, Class: ytp-overflow-panel-action-buttons
+Tag: button, Class: ytp-watch-later-button ytp-button
+Tag: div, Class: ytp-watch-later-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-watch-later-title
+Tag: button, Class: ytp-button ytp-share-button
+Tag: div, Class: ytp-share-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-share-title
+Tag: button, Class: ytp-button ytp-copylink-button
+Tag: div, Class: ytp-copylink-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-copylink-title
+Tag: button, Class: ytp-overflow-panel-close ytp-button
+Tag: div, Class: ytp-popup ytp-settings-menu
+Tag: div, Class: ytp-panel
+Tag: div, Class: ytp-panel-menu
+Tag: div, Class: ytp-gradient-bottom
+Tag: div, Class: ytp-chrome-bottom
+Tag: div, Class: ytp-progress-bar-container
+Tag: div, Class: ytp-heat-map-container
+Tag: div, Class: ytp-heat-map-edu
+Tag: div, Class: ytp-progress-bar
+Tag: div, Class: ytp-chapters-container
+Tag: div, Class: ytp-chapter-hover-container
+Tag: div, Class: ytp-progress-bar-padding
+Tag: div, Class: ytp-progress-list
+Tag: div, Class: ytp-play-progress ytp-swatch-background-color
+Tag: div, Class: ytp-progress-linear-live-buffer
+Tag: div, Class: ytp-load-progress
+Tag: div, Class: ytp-hover-progress
+Tag: div, Class: ytp-ad-progress-list
+Tag: div, Class: ytp-timed-markers-container
+Tag: div, Class: ytp-clip-start-exclude
+Tag: div, Class: ytp-clip-end-exclude
+Tag: div, Class: ytp-scrubber-container
+Tag: div, Class: ytp-scrubber-button ytp-swatch-background-color
+Tag: div, Class: ytp-scrubber-pull-indicator
+Tag: div, Class: ytp-fine-scrubbing-container
+Tag: div, Class: ytp-fine-scrubbing-edu
+Tag: div, Class: ytp-fine-scrubbing
+Tag: div, Class: ytp-fine-scrubbing-draggable
+Tag: div, Class: ytp-fine-scrubbing-thumbnails
+Tag: div, Class: ytp-fine-scrubbing-cursor
+Tag: div, Class: ytp-fine-scrubbing-seek-time
+Tag: div, Class: ytp-fine-scrubbing-play
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: div, Class: ytp-fine-scrubbing-dismiss
+Tag: div, Class: ytp-bound-time-left
+Tag: div, Class: ytp-bound-time-right
+Tag: div, Class: ytp-clip-start
+Tag: use, Class: ytp-svg-shadow
+Tag: div, Class: ytp-clip-end
+Tag: use, Class: ytp-svg-shadow
+Tag: div, Class: ytp-chrome-controls
+Tag: div, Class: ytp-left-controls
+Tag: a, Class: ytp-prev-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: button, Class: ytp-play-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: a, Class: ytp-next-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: span, Class: ytp-volume-area
+Tag: button, Class: ytp-mute-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-volume-animation-mover
+Tag: path, Class: ytp-svg-volume-animation-mover
+Tag: path, Class: ytp-svg-fill ytp-svg-volume-animation-speaker
+Tag: path, Class: ytp-svg-fill ytp-svg-volume-animation-hider
+Tag: div, Class: ytp-volume-panel
+Tag: div, Class: ytp-volume-slider
+Tag: div, Class: ytp-volume-slider-handle
+Tag: div, Class: ytp-time-display notranslate
+Tag: span, Class: ytp-time-clip-icon
+Tag: span, Class: ytp-time-current
+Tag: span, Class: ytp-time-separator
+Tag: span, Class: ytp-time-duration
+Tag: span, Class: ytp-clip-watch-full-video-button-separator
+Tag: span, Class: ytp-clip-watch-full-video-button
+Tag: button, Class: ytp-live-badge ytp-button
+Tag: div, Class: ytp-chapter-container
+Tag: button, Class: ytp-chapter-title ytp-button ytp-chapter-container-disabled fitted-chapter-button
+Tag: span, Class: ytp-chapter-title-prefix
+Tag: div, Class: ytp-chapter-title-content
+Tag: div, Class: ytp-chapter-title-chevron
+Tag: div, Class: ytp-chapter-container
+Tag: button, Class: ytp-chapter-title ytp-button ytp-chapter-container-disabled fitted-chapter-button
+Tag: span, Class: ytp-chapter-title-prefix
+Tag: div, Class: ytp-chapter-title-content
+Tag: div, Class: ytp-chapter-title-chevron
+Tag: div, Class: ytp-right-controls
+Tag: button, Class: ytp-fullerscreen-edu-button ytp-button
+Tag: div, Class: ytp-fullerscreen-edu-text
+Tag: div, Class: ytp-fullerscreen-edu-chevron
+Tag: button, Class: ytp-button
+Tag: div, Class: ytp-autonav-toggle-button-container
+Tag: div, Class: ytp-autonav-toggle-button
+Tag: button, Class: ytp-subtitles-button ytp-button
+Tag: svg, Class: ytp-subtitles-button-icon
+Tag: use, Class: ytp-svg-shadow
+Tag: button, Class: ytp-button ytp-settings-button
+Tag: use, Class: ytp-svg-shadow
+Tag: button, Class: ytp-miniplayer-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: button, Class: ytp-pip-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: button, Class: ytp-size-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: button, Class: ytp-remote-button ytp-button
+Tag: use, Class: ytp-svg-shadow
+Tag: button, Class: ytp-fullscreen-button ytp-button
+Tag: g, Class: ytp-fullscreen-button-corner-0
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: g, Class: ytp-fullscreen-button-corner-1
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: g, Class: ytp-fullscreen-button-corner-2
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: g, Class: ytp-fullscreen-button-corner-3
+Tag: use, Class: ytp-svg-shadow
+Tag: path, Class: ytp-svg-fill
+Tag: yt-playability-error-supported-renderers, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: attached-message style-scope ytd-watch-flexy
+Tag: div, Class: attached-message style-scope ytd-watch-flexy
+Tag: ytd-watch-metadata, Class: watch-active-metadata style-scope ytd-watch-flexy style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-watch-metadata
+Tag: h1, Class: style-scope ytd-watch-metadata
+Tag: yt-formatted-string, Class: style-scope ytd-watch-metadata
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: item style-scope ytd-watch-metadata
+Tag: ytd-video-owner-renderer, Class: style-scope ytd-watch-metadata
+Tag: a, Class: yt-simple-endpoint style-scope ytd-video-owner-renderer
+Tag: yt-img-shadow, Class: style-scope ytd-video-owner-renderer no-transition
+Tag: img, Class: style-scope yt-img-shadow
+Tag: div, Class: style-scope ytd-video-owner-renderer
+Tag: ytd-channel-name, Class: style-scope ytd-video-owner-renderer
+Tag: div, Class: style-scope ytd-channel-name
+Tag: div, Class: style-scope ytd-channel-name
+Tag: yt-formatted-string, Class: style-scope ytd-channel-name
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-channel-name
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-channel-name
+Tag: yt-formatted-string, Class: style-scope ytd-video-owner-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-video-owner-renderer
+Tag: div, Class: style-scope ytd-video-owner-renderer
+Tag: div, Class: style-scope ytd-video-owner-renderer
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: item style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: item style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: ytd-watch-info-text, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-watch-info-text
+Tag: div, Class: style-scope ytd-watch-info-text
+Tag: yt-formatted-string, Class: style-scope ytd-watch-info-text
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: yt-animated-rolling-number, Class: animated-rolling-number-wiz style-scope ytd-watch-info-text
+Tag: yt-formatted-string, Class: style-scope ytd-watch-info-text
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-watch-info-text
+Tag: yt-formatted-string, Class: style-scope ytd-watch-info-text
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: yt-animated-rolling-number, Class: animated-rolling-number-wiz style-scope ytd-watch-info-text
+Tag: yt-formatted-string, Class: style-scope ytd-watch-info-text
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: yt-formatted-string, Class: style-scope ytd-watch-info-text
+Tag: dom-if, Class: style-scope ytd-watch-info-text
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-watch-info-text
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: dom-if, Class: style-scope ytd-watch-metadata
+Tag: yt-formatted-string, Class: style-scope ytd-watch-metadata
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: yt-attributed-string, Class: style-scope ytd-watch-metadata
+Tag: yt-formatted-string, Class: style-scope ytd-watch-metadata
+Tag: ytd-structured-description-content-renderer, Class: style-scope ytd-watch-metadata
+Tag: ytd-metadata-row-container-renderer, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-metadata-row-container-renderer
+Tag: div, Class: style-scope ytd-metadata-row-container-renderer
+Tag: tp-yt-paper-button, Class: button style-scope ytd-watch-metadata
+Tag: ytd-text-inline-expander, Class: style-scope ytd-watch-metadata
+Tag: yt-attributed-string, Class: style-scope ytd-text-inline-expander
+Tag: yt-formatted-string, Class: style-scope ytd-text-inline-expander
+Tag: div, Class: style-scope ytd-text-inline-expander
+Tag: span, Class: style-scope ytd-text-inline-expander
+Tag: span, Class: style-scope ytd-text-inline-expander
+Tag: yt-attributed-string, Class: style-scope ytd-text-inline-expander
+Tag: yt-formatted-string, Class: style-scope ytd-text-inline-expander
+Tag: span, Class: style-scope ytd-text-inline-expander
+Tag: span, Class: style-scope ytd-text-inline-expander
+Tag: tp-yt-paper-button, Class: button style-scope ytd-text-inline-expander
+Tag: tp-yt-paper-button, Class: button style-scope ytd-text-inline-expander
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: ytd-structured-description-content-renderer, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-structured-description-content-renderer
+Tag: ytd-metadata-row-container-renderer, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-metadata-row-container-renderer
+Tag: div, Class: style-scope ytd-metadata-row-container-renderer
+Tag: tp-yt-paper-button, Class: button style-scope ytd-text-inline-expander
+Tag: yt-interaction, Class: rounded-large style-scope ytd-watch-metadata
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: style-scope ytd-watch-metadata
+Tag: div, Class: item style-scope ytd-watch-metadata
+Tag: ytd-metadata-row-container-renderer, Class: style-scope ytd-watch-metadata
+Tag: div, Class: style-scope ytd-metadata-row-container-renderer
+Tag: div, Class: style-scope ytd-metadata-row-container-renderer
+Tag: div, Class:  style-scope ytd-watch-flexy style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: watch-skeleton style-scope ytd-watch-flexy
+Tag: div, Class: skeleton-light-border-bottom
+Tag: div, Class: text-shell skeleton-bg-color
+Tag: div, Class: text-shell skeleton-bg-color
+Tag: div, Class: flex-1
+Tag: div, Class: menu-button skeleton-bg-color
+Tag: div, Class: menu-button skeleton-bg-color
+Tag: div, Class: menu-button skeleton-bg-color
+Tag: div, Class: menu-button skeleton-bg-color
+Tag: div, Class: menu-button skeleton-bg-color
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: ytd-video-primary-info-renderer, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-video-primary-info-renderer
+Tag: a, Class: yt-simple-endpoint style-scope ytd-video-primary-info-renderer
+Tag: yt-icon, Class: super-title-icon style-scope ytd-video-primary-info-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-formatted-string, Class: super-title style-scope ytd-video-primary-info-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: h1, Class: title style-scope ytd-video-primary-info-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-video-primary-info-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: span, Class: style-scope ytd-video-primary-info-renderer
+Tag: dom-repeat, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-video-primary-info-renderer
+Tag: ytd-sentiment-bar-renderer, Class: style-scope ytd-video-primary-info-renderer
+Tag: div, Class: style-scope ytd-sentiment-bar-renderer
+Tag: div, Class: style-scope ytd-sentiment-bar-renderer
+Tag: tp-yt-paper-tooltip, Class: style-scope ytd-sentiment-bar-renderer
+Tag: div, Class: hidden style-scope tp-yt-paper-tooltip
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: watch-skeleton style-scope ytd-watch-flexy
+Tag: div, Class: skeleton-light-border-bottom
+Tag: div, Class: flex-1
+Tag: div, Class: skeleton-bg-color
+Tag: div, Class: flex-1
+Tag: div, Class: text-shell skeleton-bg-color
+Tag: div, Class: text-shell skeleton-bg-color
+Tag: div, Class: skeleton-bg-color
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: dom-if, Class: style-scope ytd-watch-flexy
+Tag: ytd-comments, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: ytd-watch-engagement-panels, Class: style-scope ytd-watch-flexy
+Tag: ytd-playlist-panel-renderer, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: header style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: h3, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: title style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: h3, Class: style-scope ytd-playlist-panel-renderer
+Tag: span, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: byline-title style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: ytd-badge-supported-renderer, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: publisher style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: index-message-wrapper style-scope ytd-playlist-panel-renderer
+Tag: span, Class: index-message style-scope ytd-playlist-panel-renderer
+Tag: yt-formatted-string, Class: index-message style-scope ytd-playlist-panel-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-icon-button, Class: style-scope ytd-playlist-panel-renderer
+Tag: button, Class: style-scope yt-icon-button
+Tag: yt-icon, Class: style-scope ytd-playlist-panel-renderer
+Tag: yt-icon-shape, Class: style-scope yt-icon
+Tag: icon-shape, Class: yt-spec-icon-shape
+Tag: yt-interaction, Class: circular style-scope yt-icon-button
+Tag: div, Class: stroke style-scope yt-interaction
+Tag: div, Class: fill style-scope yt-interaction
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-playlist-panel-renderer
+Tag: div, Class: playlist-items style-scope ytd-playlist-panel-renderer
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: dom-if, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: ytd-watch-next-secondary-results-renderer, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-next-secondary-results-renderer
+Tag: div, Class: style-scope ytd-watch-next-secondary-results-renderer
+Tag: div, Class: style-scope ytd-watch-next-secondary-results-renderer
+Tag: div, Class: watch-skeleton style-scope ytd-watch-flexy
+Tag: div, Class: autoplay skeleton-light-border-bottom
+Tag: div, Class: skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: div, Class: video-skeleton
+Tag: div, Class: video-details
+Tag: div, Class: thumbnail skeleton-bg-color
+Tag: div, Class: details flex-1
+Tag: div, Class: video-title text-shell skeleton-bg-color
+Tag: div, Class: video-meta text-shell skeleton-bg-color
+Tag: ytd-video-quality-promo-renderer, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: div, Class: style-scope ytd-watch-flexy
+Tag: ytd-permission-role-bottom-bar-renderer, Class: style-scope ytd-app
+Tag: div, Class: pom-role-text style-scope ytd-permission-role-bottom-bar-renderer
+Tag: yt-formatted-string, Class: style-scope ytd-permission-role-bottom-bar-renderer
+Tag: yt-attributed-string, Class: style-scope yt-formatted-string
+Tag: ytd-popup-container, Class: style-scope ytd-app
+Tag: ytd-third-party-manager, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-app
+Tag: ytd-video-preview, Class: style-scope ytd-app
+Tag: div, Class: style-scope ytd-video-preview
+Tag: div, Class: style-scope ytd-video-preview
+Tag: div, Class: style-scope ytd-video-preview
+Tag: a, Class: yt-simple-endpoint style-scope ytd-video-preview
+Tag: div, Class: style-scope ytd-video-preview
+Tag: ytd-player, Class: style-scope ytd-video-preview
+Tag: div, Class: style-scope ytd-player
+Tag: div, Class: style-scope ytd-video-preview
+Tag: ytd-thumbnail, Class: style-scope ytd-video-preview
+Tag: a, Class: yt-simple-endpoint inline-block style-scope ytd-thumbnail
+Tag: yt-image, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-thumbnail
+Tag: div, Class: style-scope ytd-video-preview
+Tag: div, Class: style-scope ytd-video-preview
+Tag: yt-inline-player-controls, Class: style-scope ytd-video-preview
+Tag: dom-if, Class: style-scope ytd-video-preview
+Tag: yt-page-navigation-progress, Class: style-scope ytd-app
+Tag: div, Class: style-scope yt-page-navigation-progress
+Tag: script, Class: js-httpswwwyoutubecomsdesktop505984a2jsbindesktop_polymervflsetdesktop_polymerjs
+Tag: path, Class: hashtag_landing_page_empty__cls-1
+Tag: path, Class: hashtag_landing_page_empty_dark_mode__cls-1
+Tag: path, Class: hashtag_landing_page_error__cls-1
+Tag: path, Class: hashtag_landing_page_error__cls-1
+Tag: path, Class: hashtag_landing_page_error__cls-1
+Tag: path, Class: hashtag_landing_page_error_dark_mode__cls-1
+Tag: path, Class: hashtag_landing_page_error_dark_mode__cls-1
+Tag: path, Class: hashtag_landing_page_error_dark_mode__cls-1
+Tag: div, Class: style-scope iron-a11y-announcer
+Tag: link, Class: css-httpswwwyoutubecomsdesktop505984a2cssbinwwwmaindesktopwatchpageskeletoncss
+
+Elements with name attribute:
+Tag: meta, Name: description
+Tag: meta, Name: keywords
+Tag: script, Name: www-roboto
+Tag: meta, Name: theme-color
+Tag: iron-iconset-svg, Name: icons
+Tag: iron-iconset-svg, Name: paper-dropdown-menu
+Tag: iron-iconset-svg, Name: paper-tabs
+Tag: iron-iconset-svg, Name: socialNetworks
+Tag: iron-iconset-svg, Name: socialNetworksRound
+Tag: input, Name: search_query
+Tag: iron-iconset-svg, Name: backstage
+Tag: iron-iconset-svg, Name: hashtag-landing-page
+Tag: iron-iconset-svg, Name: live-chat-badges
+Tag: iron-iconset-svg, Name: miniplayer
+Tag: iron-iconset-svg, Name: offline-no-content
+Tag: iron-iconset-svg, Name: promo-full-height
+Tag: iron-iconset-svg, Name: rotten-tomatoes
+Tag: iron-iconset-svg, Name: settings
+Tag: iron-iconset-svg, Name: shorts
+Tag: iron-iconset-svg, Name: spinners
+Tag: iron-iconset-svg, Name: yt-icons
+Tag: iron-iconset-svg, Name: yt-logos
+Tag: iron-iconset-svg, Name: yt-sys-icons
+Tag: iron-iconset-svg, Name: yt-sys-icons12
+Tag: iron-iconset-svg, Name: yt-sys-icons13
+Tag: iron-iconset-svg, Name: yt-sys-icons15
+Tag: iron-iconset-svg, Name: yt-sys-icons16
+Tag: iron-iconset-svg, Name: yt-sys-icons18
+Tag: iron-iconset-svg, Name: yt-sys-icons20
+Tag: iron-iconset-svg, Name: yt-sys-icons36
+Tag: iron-iconset-svg, Name: yt-sys-icons48
+Tag: iron-iconset-svg, Name: ytcp-icons
+Tag: link, Name: www-main-desktop-watch-page-skeleton
+
+Elements with type attribute:
+Tag: link, Type: image/x-icon
+Tag: link, Type: application/opensearchdescription+xml
+Tag: source, Type: image/webp
+Tag: input, Type: text
+Tag: source, Type: image/webp
+Tag: input, Type: checkbox
+Tag: div, Type: range
+
